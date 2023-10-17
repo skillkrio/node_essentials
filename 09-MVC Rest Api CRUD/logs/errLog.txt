@@ -1,0 +1,8 @@
+10/13/2023	06:33:31	8b370410-5087-4be8-806e-4cc61fb18cff	Error:ENOENT: no such file or directory, stat 'D:\development\node_essentials\08-routes_setup_with_express\routes\views\index.html'
+10/13/2023	06:33:37	fd07ab75-9b07-4d0f-9a52-a3d968488902	Error:ENOENT: no such file or directory, stat 'D:\development\node_essentials\08-routes_setup_with_express\routes\views\index.html'
+10/13/2023	06:33:40	dbfe2eb5-e9fe-44ca-9089-6e198581f755	Error:ENOENT: no such file or directory, stat 'D:\development\node_essentials\08-routes_setup_with_express\routes\views\index.html'
+10/13/2023	06:34:43	75cef34e-0bc6-4f09-ab9d-1eb0d3f9db4c	Error:ENOENT: no such file or directory, stat 'D:\development\node_essentials\08-routes_setup_with_express\routes\views\index.html'
+10/13/2023	06:34:54	9a66877e-aac7-44e2-9968-3e24b3e42a05	Error:ENOENT: no such file or directory, stat 'D:\development\node_essentials\08-routes_setup_with_express\routes\views\index.html'
+10/13/2023	06:36:10	4850320c-e6f6-4bb3-997d-e673fcbb6afe	Error:ENOENT: no such file or directory, stat 'D:\development\node_essentials\08-routes_setup_with_express\routes\views\new-page.html'
+10/17/2023	06:44:06	16663416-fee8-4439-baeb-6ac184181d47	SyntaxError:Unexpected string in JSON at position 10
+10/17/2023	06:44:19	964e8d80-530c-4ac2-8871-4ed0698bca20	SyntaxError:Unexpected token } in JSON at position 11
